@@ -1,4 +1,4 @@
-# 👋 Ola, I'm Simeon
+# 👋 Ola, we are Dorx Code Labs
 ## Dorx Code Labs is the Pseudonym i use when I'm publishing my code
 
 ## 👀 Self Taught Full Stack Flutter, Dart and Typescript Engineer and currently learning Data Science, Solidity and Blockchain Development
