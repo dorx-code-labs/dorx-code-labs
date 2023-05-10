@@ -1,11 +1,9 @@
-# 👋 Ola, we are Dorx Code Labs
-## Dorx Code Labs is the Pseudonym i use when I'm publishing my code
+# 👋 Ola, I am Mubiru Simeon
 
 ## 👀 Self Taught Full Stack Flutter, Dart and Typescript Engineer and currently learning Data Science, Solidity and Blockchain Development
-- 🔭 I'm currently working on building a passion project called "My Campus"
+- 🔭 I'm currently working on building a passion project called "The Dorx Super App"
 - 👯 I’m looking to collaborate on blockchain, mobile and web projects.
 - 💬 Ask me about flutter
-- 📫 Check out my portfolio: simeon.web.app
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dorx-code-labs&label=Profile%20views&color=0e75b6&style=flat" alt="simeon" /></p>
 
