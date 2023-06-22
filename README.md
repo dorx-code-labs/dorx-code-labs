@@ -9,7 +9,7 @@
 
 ### Connect with me:
 [<img align="left" alt="Twitter" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" style="padding-right:10px;" />](https://twitter.com/dorx_official/)
-[<img align="left" alt="Gmail" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" style="padding-right:10px;" />](dorxcodelabs@gmail.com/)
+[<img align="left" alt="Gmail" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" style="padding-right:10px;" />](codewithsimeon@gmail.com/)
 [<img align="left" alt="LinkedIn" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />]([https://www.linkedin.com/in/mubiru-simeon-b28146180/](https://ug.linkedin.com/in/mubiru-simeon-b28146180))
 
 <br/>
