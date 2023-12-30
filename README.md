@@ -4,11 +4,12 @@
 - 🔭 I'm currently working on building a passion project called "The Dorx Super App"
 - 👯 I’m looking to collaborate on blockchain, mobile and web projects.
 - 💬 Ask me about flutter
+- Visit my Portfolio site at codewithsimeon.com
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mubiru-simeon&label=Profile%20views&color=0e75b6&style=flat" alt="simeon" /></p>
 
 ### Connect with me:
-[<img align="left" alt="Twitter" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" style="padding-right:10px;" />](https://twitter.com/dorx_official/)
+[<img align="left" alt="Twitter" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" style="padding-right:10px;" />](https://twitter.com/dorxcodelab/)
 [<img align="left" alt="Gmail" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" style="padding-right:10px;" />](codewithsimeon@gmail.com/)
 [<img align="left" alt="LinkedIn" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />]([https://www.linkedin.com/in/mubiru-simeon-b28146180/](https://ug.linkedin.com/in/mubiru-simeon-b28146180))
 
