@@ -1,10 +1,14 @@
 # 👋 Ola, I am Mubiru Simeon
 
-## 👀 Self Taught Full Stack Flutter, Dart and Typescript Engineer and currently learning Data Science, Solidity and Blockchain Development
-- 🔭 I'm currently working on building a passion project called "The Dorx Super App"
-- 👯 I’m looking to collaborate on blockchain, mobile and web projects.
-- 💬 Ask me about flutter
-- Visit my Portfolio site at codewithsimeon.com
+## 👀 Full Stack Flutter, Dart and Typescript Engineer.
+## Currently working on a lot of cool projects
+- 🔭 Check out Casa.
+- 👯 Looking to collaborate on mobile and web projects.
+- 🤖 Venturing into AI
+- 💬 Ask me about Flutter
+  
+## Visit my Portfolio site at codewithsimeon.com
+- My Google Developer account got some issues, so check out my company's private appstore The Dorx Store at dorxstore.web.app
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mubiru-simeon&label=Profile%20views&color=0e75b6&style=flat" alt="simeon" /></p>
 
@@ -16,7 +20,6 @@
 <br/>
           
 ### Languages and Tools:          
-<img align="left" alt="Solidity" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Flutter" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Typescript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
