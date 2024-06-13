@@ -6,9 +6,6 @@
 - 👯 Looking to collaborate on mobile and web projects.
 - 🤖 Venturing into AI
 - 💬 Ask me about Flutter
-  
-## Visit my Portfolio site at codewithsimeon.com
-- My Google Developer account got some issues, so check out my company's private appstore The Dorx Store at dorxstore.web.app
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mubiru-simeon&label=Profile%20views&color=0e75b6&style=flat" alt="simeon" /></p>
 
