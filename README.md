@@ -2,7 +2,6 @@
 
 ## 👀 Full Stack Flutter, Dart and Typescript Engineer.
 ## Currently working on a lot of cool projects
-- 🔭 Check out Casa.
 - 👯 Looking to collaborate on mobile and web projects.
 - 🤖 Venturing into AI
 - 💬 Ask me about Flutter
